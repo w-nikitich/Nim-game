@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nim-game/static/css/main.e770a470.css",
+    "main.js": "/Nim-game/static/js/main.bd755af7.js",
+    "index.html": "/Nim-game/index.html",
+    "main.e770a470.css.map": "/Nim-game/static/css/main.e770a470.css.map",
+    "main.bd755af7.js.map": "/Nim-game/static/js/main.bd755af7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e770a470.css",
+    "static/js/main.bd755af7.js"
+  ]
+}
