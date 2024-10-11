@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { botTurn, botTurnStickCounter } from "../../helpers/bot-turn.helper";
 import { IBotTurn } from "../../interfaces/bot-turn.interface";
 import { randomNumber } from "../../helpers/random-number.helper";
