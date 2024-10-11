@@ -1,0 +1,11 @@
+@import '../../scss/_variables.scss';
+
+.button {
+    padding: 10px 20px;
+    background-color: $lightSteelBlue;
+    border: 1px solid $pewterBlue;
+    border-radius: 5px;
+    font-size: $sm-fsize;
+    color: $white;
+    font-weight: $semibold;
+}

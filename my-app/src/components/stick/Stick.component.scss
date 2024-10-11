@@ -1,0 +1,18 @@
+@import '../../scss/_variables.scss';
+
+.stick {
+    display: block;
+    width: 10px;
+    height: 50px;
+    background-color: $steelBlue;
+    border-radius: 10px;
+    cursor: pointer;
+
+    &:not(:last-of-type) {
+        margin-right: 30px;
+    }
+
+    &.removed {
+        visibility: hidden;
+    }
+}
